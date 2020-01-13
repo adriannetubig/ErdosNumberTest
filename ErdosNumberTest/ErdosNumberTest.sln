@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErdosNumber.Business", "ErdosNumber.Business\ErdosNumber.Business.csproj", "{A8042396-039D-46CB-A48C-DD93A21017EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErdosNumber.Test", "ErdosNumber.Test\ErdosNumber.Test.csproj", "{7FBC5DD3-6B1B-4704-B638-1E137088634F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8042396-039D-46CB-A48C-DD93A21017EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8042396-039D-46CB-A48C-DD93A21017EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8042396-039D-46CB-A48C-DD93A21017EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8042396-039D-46CB-A48C-DD93A21017EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FBC5DD3-6B1B-4704-B638-1E137088634F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FBC5DD3-6B1B-4704-B638-1E137088634F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FBC5DD3-6B1B-4704-B638-1E137088634F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FBC5DD3-6B1B-4704-B638-1E137088634F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C06FE49E-30AD-4EFF-BF96-E5ADEDBD2E9B}
+	EndGlobalSection
+EndGlobal
